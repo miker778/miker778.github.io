@@ -1,0 +1,50 @@
+#site{
+  width:auto;
+  height:auto;
+  background-color:#221C1C;
+  font-family: monospace;
+  color: white;
+text-justify: auto;
+}
+
+#header{
+  width:auto;
+  height:auto;
+  background-color:#191919;
+  text-align: center;
+  }
+#title{
+  width:auto;
+  height:auto;
+  margin:auto;
+  background-color:black;
+  text-align: center;
+  }
+#cuerpo{
+  width:auto;
+  height:auto;
+  background-color:#191919;
+  text-align: center;
+}
+    
+#footer{
+  width:auto;
+  height:auto;
+  background-color:black;
+  text-align:center ;
+
+}
+
+#mikeimage {
+    height: 214px;
+    width: 324px;
+    border: 10px;
+    
+}
+
+#mikevideo {
+    height: 180px;
+    width: 320px;
+    
+}
+
